@@ -10,5 +10,3 @@ I am Christy Rachel Philip.
 
 
 ![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristyRachel&show_icons=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aChristyRachel)](https://github.com/ChristyRachel/github-readme-stats)
-
