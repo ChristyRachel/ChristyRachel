@@ -4,8 +4,10 @@ I am Christy Rachel Philip.
 - 🔭 I’m currently pursuing my post graduation diploma in Embedded Systems and Engineering Design at [Lambton College](https://www.lambtoncollege.ca/toronto/)
 - 🌱 I’m currently learning anything and everything😑
 - 😄 Pronouns: She/her
-- Connect me via: <a href="https://twitter.com/ChristyRachelPh">
-  <img align="left" alt="Christy Rachel Philip | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+
+*Connect me via:   *
+<a href="https://twitter.com/ChristyRachelPh">
+  <img align="left" alt="Christy Rachel Philip | Twitter" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/christy-rachel-philip-479587160/">
   <img align="left" alt="Christy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
