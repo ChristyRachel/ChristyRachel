@@ -9,4 +9,4 @@ I am Christy Rachel Philip.
 - 😄 Pronouns: She/her
 
 
-![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristyRachel&show_icons=true)
+![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristyRachel&theme=highcontrast&show_icons=true)
