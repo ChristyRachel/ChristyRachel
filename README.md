@@ -8,5 +8,7 @@ I am Christy Rachel Philip.
 
 - 😄 Pronouns: She/her
 
-###Profile visits: 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ChristyRachel.ChristyRachel)
+
+![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristyRachel&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aChristyRachel)](https://github.com/ChristyRachel/github-readme-stats)
+
