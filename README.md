@@ -12,7 +12,6 @@ I am Christy Rachel Philip.
 </a>
 <a href="https://www.linkedin.com/in/christy-rachel-philip-479587160/">
   <img align="left" alt="Christy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
 
 
