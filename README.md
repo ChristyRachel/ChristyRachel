@@ -7,10 +7,10 @@ I am Christy Rachel Philip.
 
 *Connect me via:   *
 <a href="https://twitter.com/ChristyRachelPh">
-  <img align="left" alt="Christy Rachel Philip | Twitter" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="" alt="Christy Rachel Philip | Twitter" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/christy-rachel-philip-479587160/">
-  <img align="left" alt="Christy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="t" alt="Christy's LinkedIN" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 
   <br />
   
