@@ -5,7 +5,7 @@ I am Christy Rachel Philip.
 - 🌱 I’m currently learning anything and everything😑
 - 😄 Pronouns: She/her
 
-** 📫 How to reach me?** <a href="https://twitter.com/ChristyRachelPh">
+**How to reach me?** <a href="https://twitter.com/ChristyRachelPh">
   <img align="left" alt="Christy Rachel Philip | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/christy-rachel-philip-479587160/">
