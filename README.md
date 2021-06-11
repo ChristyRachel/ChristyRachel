@@ -10,7 +10,3 @@ I am Christy Rachel Philip.
 
 
 ![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristyRachel&theme=highcontrast&show_icons=true)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChristyRachel&repo=github-readme-stats)](https://github.com/ChristyRcahel/github-readme-stats)
-
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
