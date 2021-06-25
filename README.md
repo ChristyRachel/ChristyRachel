@@ -1,12 +1,12 @@
+
+</a>![8eeebeb447ccbea494dbc080ddd8ca16](https://user-images.githubusercontent.com/40349694/123352365-20795800-d52d-11eb-94e2-ef1fa9f98c01.png)
+
 ### Hi there 👋
 
 I am Christy Rachel Philip. 
 - 🔭 I’m currently pursuing my post graduation diploma in Embedded Systems and Engineering Design at [Lambton College](https://www.lambtoncollege.ca/toronto/)
 - 🌱 I’m currently learning anything and everything😑
 - 😄 Pronouns: She/her
-
-![8eeebeb447ccbea494dbc080ddd8ca16](https://user-images.githubusercontent.com/40349694/123352365-20795800-d52d-11eb-94e2-ef1fa9f98c01.png)
-
 
 
   ![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristyRachel&theme=highcontrast&show_icons=true&count_private=true)
