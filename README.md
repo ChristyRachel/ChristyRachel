@@ -5,9 +5,7 @@
 
 I am Christy Rachel Philip. 
 - 🔭 I’m currently pursuing my post graduation diploma in Embedded Systems and Engineering Design at [Lambton College](https://www.lambtoncollege.ca/toronto/)
-- 🌱 I’m currently learning anything and everything😑
-- 😄 Pronouns: She/her
-
+- 🌱 I’m currently learning anything and everything😄
 
   ![Christy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristyRachel&theme=highcontrast&show_icons=true&count_private=true)
   
