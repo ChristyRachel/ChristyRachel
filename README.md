@@ -20,8 +20,9 @@ I am Christy Rachel Philip.
   <img align="t" alt="Christy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/christyrachel393">
-  <img align="t" alt=![logo](https://i.imgur.com/YQnaKXf.png "HackerRank")width="22px" src="[image](https://user-images.githubusercontent.com/40349694/125489921-6fd0f602-8956-4834-a5d8-69897414f940.png)" />
+   <img align="t" alt="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
+" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
   
-
 
 
