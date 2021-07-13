@@ -21,7 +21,7 @@ I am Christy Rachel Philip.
 </a>
 <a href="https://www.hackerrank.com/christyrachel393">
    <img align="t" alt="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
-" width="120px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+" width="112px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
   
 
