@@ -11,11 +11,8 @@ I am Christy Rachel Philip.
   
   [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristyRachel)](https://github.com/ChristyRachel/github-readme-stats)
   
-**Other profiles**
+**Other Profiles**
 
-<a href="https://twitter.com/ChristyRachelPh">
-  <img align="" alt="Christy Rachel Philip | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/christy-rachel-philip-479587160/">
   <img align="t" alt="Christy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
