@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 I am Christy Rachel Philip. 
-- 🔭 I’ve passed my post-graduation diploma in Embedded Systems and Engineering Design at [Lambton College with flying colors] (https://www.lambtoncollege.ca/toronto/)
+- 🔭 I’ve passed my post-graduation diploma in Embedded Systems and Engineering Design at Lambton College with flying colors (https://www.lambtoncollege.ca/toronto/)
 - 🌱 I’m currently updating C, C++, and Python to get back on track after a while. I believe it is better late than never,
 - Striving hard to build the dream career😇 
 
