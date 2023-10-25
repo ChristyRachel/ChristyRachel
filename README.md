@@ -15,7 +15,7 @@ I am Christy Rachel Philip.
 **Other Profiles**
 
 <a href="https://www.linkedin.com/in/christy-rachel-philip-479587160/">
-  <img align="t" alt="Christy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="t" alt=LinkedIN width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.hackerrank.com/christyrachel393">
    <img align="t" alt="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
