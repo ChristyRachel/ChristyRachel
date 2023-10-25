@@ -18,7 +18,7 @@ I am Christy Rachel Philip.
   <img align="t" alt="LinkedIn" width="22px" src="[image](https://github.com/ChristyRachel/ChristyRachel/assets/40349694/4de1cfd4-1cf5-48e4-87d2-e6a32fd8893e)
 " />
 </a>
-
+</a>
 <a href="https://www.hackerrank.com/christyrachel393">
    <img align="t" alt="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 " width="112px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
