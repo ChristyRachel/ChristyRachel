@@ -15,8 +15,8 @@ I am Christy Rachel Philip.
 **Other Profiles**
 
 <a href="https://www.linkedin.com/in/christy-rachel-philip-479587160/">
-  <img align="t" alt="![image](https://github.com/ChristyRachel/ChristyRachel/assets/40349694/8f54bb9f-1484-4b2f-b249-e399e0f53639)
-" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="t" alt="[![image](https://github.com/ChristyRachel/ChristyRachel/assets/40349694/8f54bb9f-1484-4b2f-b249-e399e0f53639)
+](https://www.google.com/search?q=linkedin&sca_esv=576657926&tbm=isch&sxsrf=AM9HkKlkeEpcD15JVqvxAX3veCB9VAzsMw:1698276462645&source=lnms&sa=X&ved=2ahUKEwjdv6TqrJKCAxUiLzQIHTlkCmUQ_AUoAnoECAMQBA&biw=1848&bih=949&dpr=1#imgrc=QpVSqA7I3WbCkM)" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://www.google.com/search?q=linkedin&sca_esv=576657926&tbm=isch&sxsrf=AM9HkKlkeEpcD15JVqvxAX3veCB9VAzsMw:1698276462645&source=lnms&sa=X&ved=2ahUKEwjdv6TqrJKCAxUiLzQIHTlkCmUQ_AUoAnoECAMQBA&biw=1848&bih=949&dpr=1#imgrc=QpVSqA7I3WbCkM)" />
 </a>
 <a href="https://www.hackerrank.com/christyrachel393">
    <img align="t" alt="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
